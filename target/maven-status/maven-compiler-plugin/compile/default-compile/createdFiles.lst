@@ -1,9 +1,10 @@
-classes\Pokemon.class
-classes\main.class
-classes\PokemonLocal.class
-module-info.class
-classes\Tipo.class
+classes\NewClass.class
 com\mycompany\javadex\App.class
-javadex\SystemInfo.class
-database\database.class
+classes\PokemonLocal.class
+classes\Tipo.class
 classes\InterfaceGrafica.class
+classes\Pokemon.class
+javadex\SystemInfo.class
+module-info.class
+classes\main.class
+database\database.class
